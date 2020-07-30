@@ -15,6 +15,6 @@
 
 ### 🐳 hobbies  
 
-- making gifs and tools to make them and [explain how the format works](gif.nkmk.ch)
+- making gifs and [tools](github.com/kymkdd/sucre) to make them and [explain how the format works](gif.nkmk.ch)
 - posting too much on [twitter](twitter.com/kymkdd)
 - [shitposting](korone.dog)
