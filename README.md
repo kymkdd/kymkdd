@@ -1,16 +1,20 @@
-### Hi there 👋
+### 🐧 helo
+![short thoughts](https://i.fiery.me/DdwBb.gif)  
 
-<!--
-**kymkdd/kymkdd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌳 "languages"  
 
-Here are some ideas to get you started:
+🌿 i pretend like i know what im doing
+- batch
+- c
+- html/css
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🍃 i dont pretend im just lost
+- powershell
+- bash
+- python
+
+### 🐳 hobbies  
+
+- making gifs and tools to make them and [explain how the format works](gif.nkmk.ch)
+- posting too much on [twitter](twitter.com/kymkdd)
+- [shitposting](korone.dog)
